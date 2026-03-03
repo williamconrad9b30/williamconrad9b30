@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <div class="banner">
+               SHOP
+            </div>
+            <nav>
+             <img src="https://img.freepik.com/free-vector/burger-mascot-logo-design_779267-1066.jpg">
+             <a href="#">HOME</a>
+             <a href="#">SERVICE</a>
+             <a href="#">GALLERY</a>
+             <a href="#">CONTACT US</a>
+            </nav>   
+        </header>
+    </body>
+</html>
